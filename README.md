@@ -1,7 +1,9 @@
-= Huh?
+Huh?
+====
 
 I'm just testing how the tags works :D
 
-== Version
+Version
+-------
 
-=== 0.2.2
+### 0.3.0
